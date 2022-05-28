@@ -1,0 +1,79 @@
+{
+    "title": "HT Mega Pro",
+    "type": "Local SEO",
+    "image": {
+        "src": "../images/portfolio/02.jpg"
+    },
+    "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel commodo sapien nec egestas ipsum. Vivamus sed nunc",
+    "client": "Sansa Stark",
+    "website": "https://example.com",
+    "budget": "$300 - $800",
+    "location": "Pakistan",
+    "overview": [
+        {
+            "id": 1,
+            "content": "Get access to the direct Project Overview with this report. Just by a quick glance, you’ll have an idea of the total tasks allotted to the team, number of milestones given & completed, total Links created for the project and the total time taken by all the users. Each section would elaborate the data further, if chosen."
+        }
+    ],
+    "content": [
+        {
+            "section": "project-report",
+            "section_title": {
+                "title": "SEO Analysis Report"
+            },
+            "texts": [
+                {
+                    "id": 1,
+                    "content": "In order to keep a track of the Social Media Performance of your projects, this report will do just fine. This SMO Specific report analyses your presence on different Social Media platforms covering all important metrics and permitting you to filter from the platforms you wish to see along with the metrics finalized"
+                },
+                {
+                    "id": 2,
+                    "content": "This report helps up in analyzing the status of your project with all the analytical details and link management activities. Just by a quick glance, one can have an idea of how the project is going."
+                }
+            ],
+            "images": [
+                {
+                    "src": "../images/about/v05.png"
+                }
+            ]
+        },
+        {
+            "section": "testimonial-section",
+            "section_title": {
+                "subtitle": "WHAT OUR CLIENTS SAY"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Julia Steve",
+                    "designation": "Manager",
+                    "company": "Spotify LLC",
+                    "description": "We’ve been with higher visibility for about two months now and with the help of our account manager Lauren Moscato, we’ve been able to improve our website and rankings dramatically. We will be continuing business with them and are excited to see what’s to come.",
+                    "images": [
+                        {
+                            "src": "../images/testimonial/s01.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Julia Smith",
+                    "designation": "Manager",
+                    "company": "Spotify LLC",
+                    "description": "We’ve been with higher visibility for about two months now and with the help of our account manager Lauren Moscato, we’ve been able to improve our website and rankings dramatically. We will be continuing business with them and are excited to see what’s to come.",
+                    "images": [
+                        {
+                            "src": "../images/testimonial/s02.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "section": "related-section",
+            "section_title": {
+                "title": "Related Projects"
+            }
+        }
+    ]
+}

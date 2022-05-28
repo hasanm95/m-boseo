@@ -1,0 +1,22 @@
+{
+	"name": "@boseo/shared",
+	"version": "1.0.0",
+	"license": "MIT",
+	"main": "index.js",
+	"scripts": {
+		"lint": "eslint --ignore-path .gitignore . --ext ts --ext tsx --ext js --ext jsx",
+		"lint:fix": "yarn lint --fix",
+		"clean": "rimraf dist *.tsbuildinfo node_modules public dist yarn-error.log"
+	},
+	"dependencies": {
+		"@emotion/react": "^11.6.0",
+		"@emotion/styled": "^11.6.0",
+		"@styled-system/theme-get": "^5.1.2",
+		"styled-system": "^5.1.5",
+		"tinycolor2": "^1.4.2"
+	},
+	"devDependencies": {},
+	"peerDependencies": {
+		"@loadable/component": "^5.15.2"
+	}
+}

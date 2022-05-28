@@ -1,0 +1,245 @@
+{
+    "title": "team",
+    "content": [
+        {
+            "section": "page-header-section",
+            "section_title": {
+                "title": "Trusted Experts",
+                "subtitle": "30 years of SEO expertise",
+                "description": "From dedicated SEO strategists to creative web designers, we have the people <br/> who can plan and execute the right plan for your company."
+            },
+            "images": [
+                {
+                    "src": "../images/team/bg01.jpg"
+                }
+            ]
+        },
+        {
+            "section": "team-section",
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Seth Norwood",
+                    "designation": "Lead Analyst",
+                    "description": "Seth has over 14 years of direct, hands-on internet marketing experi- ence. He has been the SEO Manager for a top interactive agency as well as several large e-commerce sites",
+                    "images": [
+                        {
+                            "src": "../images/team/01.jpg"
+                        }
+                    ],
+                    "socials": [
+                        {
+                            "id": 1,
+                            "link": "https://facebook.com",
+                            "icon": "fa fa-facebook",
+                            "title": "Facebook"
+                        },
+                        {
+                            "id": 2,
+                            "link": "https://twitter.com",
+                            "icon": "fa fa-twitter",
+                            "title": "twitter"
+                        },
+                        {
+                            "id": 3,
+                            "link": "https://linkedin.com",
+                            "icon": "fa fa-linkedin",
+                            "title": "linkedin"
+                        },
+                        {
+                            "id": 4,
+                            "link": "https://dribbble.com",
+                            "icon": "fa fa-dribbble",
+                            "title": "dribbble"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Sabrina Brooks",
+                    "designation": "SEO Strategist",
+                    "description": "Sabrina has over 14 years of direct, hands-on internet marketing experi- ence. He has been the SEO Manager for a top interactive agency as well as several large e-commerce sites",
+                    "images": [
+                        {
+                            "src": "../images/team/02.jpg"
+                        }
+                    ],
+                    "socials": [
+                        {
+                            "id": 1,
+                            "link": "https://facebook.com",
+                            "icon": "fa fa-facebook",
+                            "title": "Facebook"
+                        },
+                        {
+                            "id": 2,
+                            "link": "https://twitter.com",
+                            "icon": "fa fa-twitter",
+                            "title": "twitter"
+                        },
+                        {
+                            "id": 3,
+                            "link": "https://linkedin.com",
+                            "icon": "fa fa-linkedin",
+                            "title": "linkedin"
+                        },
+                        {
+                            "id": 4,
+                            "link": "https://dribbble.com",
+                            "icon": "fa fa-dribbble",
+                            "title": "dribbble"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Darian Cloward",
+                    "designation": "Account Manager",
+                    "description": "Darian has over 14 years of direct, hands-on internet marketing experi- ence. He has been the SEO Manager for a top interactive agency as well as several large e-commerce sites",
+                    "images": [
+                        {
+                            "src": "../images/team/03.jpg"
+                        }
+                    ],
+                    "socials": [
+                        {
+                            "id": 1,
+                            "link": "https://facebook.com",
+                            "icon": "fa fa-facebook",
+                            "title": "Facebook"
+                        },
+                        {
+                            "id": 2,
+                            "link": "https://twitter.com",
+                            "icon": "fa fa-twitter",
+                            "title": "twitter"
+                        },
+                        {
+                            "id": 3,
+                            "link": "https://linkedin.com",
+                            "icon": "fa fa-linkedin",
+                            "title": "linkedin"
+                        },
+                        {
+                            "id": 4,
+                            "link": "https://dribbble.com",
+                            "icon": "fa fa-dribbble",
+                            "title": "dribbble"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "James Baker",
+                    "designation": "SEO Engineer",
+                    "description": "James has over 14 years of direct, hands-on internet marketing experi- ence. He has been the SEO Manager for a top interactive agency as well as several large e-commerce sites",
+                    "images": [
+                        {
+                            "src": "../images/team/04.jpg"
+                        }
+                    ],
+                    "socials": [
+                        {
+                            "id": 1,
+                            "link": "https://facebook.com",
+                            "icon": "fa fa-facebook",
+                            "title": "Facebook"
+                        },
+                        {
+                            "id": 2,
+                            "link": "https://twitter.com",
+                            "icon": "fa fa-twitter",
+                            "title": "twitter"
+                        },
+                        {
+                            "id": 3,
+                            "link": "https://linkedin.com",
+                            "icon": "fa fa-linkedin",
+                            "title": "linkedin"
+                        },
+                        {
+                            "id": 4,
+                            "link": "https://dribbble.com",
+                            "icon": "fa fa-dribbble",
+                            "title": "dribbble"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "Ryan Ricketts",
+                    "designation": "Project Manager",
+                    "description": "Ryan has over 14 years of direct, hands-on internet marketing experi- ence. He has been the SEO Manager for a top interactive agency as well as several large e-commerce sites",
+                    "images": [
+                        {
+                            "src": "../images/team/05.jpg"
+                        }
+                    ],
+                    "socials": [
+                        {
+                            "id": 1,
+                            "link": "https://facebook.com",
+                            "icon": "fa fa-facebook",
+                            "title": "Facebook"
+                        },
+                        {
+                            "id": 2,
+                            "link": "https://twitter.com",
+                            "icon": "fa fa-twitter",
+                            "title": "twitter"
+                        },
+                        {
+                            "id": 3,
+                            "link": "https://linkedin.com",
+                            "icon": "fa fa-linkedin",
+                            "title": "linkedin"
+                        },
+                        {
+                            "id": 4,
+                            "link": "https://dribbble.com",
+                            "icon": "fa fa-dribbble",
+                            "title": "dribbble"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "title": "Dalton Grant",
+                    "designation": "Senior SEO Analyst",
+                    "description": "Dalton has over 14 years of direct, hands-on internet marketing experi- ence. He has been the SEO Manager for a top interactive agency as well as several large e-commerce sites",
+                    "images": [
+                        {
+                            "src": "../images/team/06.jpg"
+                        }
+                    ],
+                    "socials": [
+                        {
+                            "id": 1,
+                            "link": "https://facebook.com",
+                            "icon": "fa fa-facebook",
+                            "title": "Facebook"
+                        },
+                        {
+                            "id": 2,
+                            "link": "https://twitter.com",
+                            "icon": "fa fa-twitter",
+                            "title": "twitter"
+                        },
+                        {
+                            "id": 3,
+                            "link": "https://linkedin.com",
+                            "icon": "fa fa-linkedin",
+                            "title": "linkedin"
+                        },
+                        {
+                            "id": 4,
+                            "link": "https://dribbble.com",
+                            "icon": "fa fa-dribbble",
+                            "title": "dribbble"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

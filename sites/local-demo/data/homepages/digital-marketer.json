@@ -1,0 +1,279 @@
+{
+    "title": "digital-marketer",
+    "content": [
+        {
+            "section": "hero-section",
+            "show_form": true,
+            "headings": [
+                {
+                    "id": 1,
+                    "level": "h1",
+                    "content": "Get Business Solution With Boseo"
+                },
+                {
+                    "id": 2,
+                    "level": "h2",
+                    "content": "Get 20% Off Your First Service"
+                }
+            ],
+            "texts": [
+                {
+                    "id": 1,
+                    "content": "Bring more traffic to your website with the help <br /> of new proven techniques I can offer"
+                }
+            ],
+            "images": [
+                {
+                    "src": "../images/slider/man-01.png"
+                }
+            ]
+        },
+        {
+            "section": "client-section",
+            "section_title": {
+                "subtitle": "I Am Proudly Worked With"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "client 01",
+                    "images": [
+                        {
+                            "src": "../images/brand-logo/1.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "client 02",
+                    "images": [
+                        {
+                            "src": "../images/brand-logo/2.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "client 03",
+                    "images": [
+                        {
+                            "src": "../images/brand-logo/3.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "client 04",
+                    "images": [
+                        {
+                            "src": "../images/brand-logo/4.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "client 05",
+                    "images": [
+                        {
+                            "src": "../images/brand-logo/5.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "section": "award-section",
+            "section_title": {
+                "title": "Best Awards <br /> That I'm Achieved",
+                "subtitle": "Awards",
+                "description": "With many years of experience and expertise, I have been recognized through the awards achieved, I am able to customize solutions to meet your specific needs regardless of size or industry. From small businesses to Fortune 1000 – hundreds of companies rely on Boseo to help grow their revenue through"
+            },
+            "buttons": [
+                {
+                    "id": 1,
+                    "path": "/contact",
+                    "content": "Contact Me"
+                }
+            ],
+            "items": [
+                {
+                    "id": 1,
+                    "title": "KOOLJEANS: Apparel & Accessories",
+                    "images": [
+                        {
+                            "src": "../images/awards/01.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "GoodFood - Creative Digital Agency",
+                    "images": [
+                        {
+                            "src": "../images/awards/02.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Pencl sketches: Top 10 SEO Agency",
+                    "images": [
+                        {
+                            "src": "../images/awards/03.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "section": "service-section",
+            "section_title": {
+                "title": "Best Solutions for Your Business"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Organic Search",
+                    "description": "Stop selling. Start helping. Utilize SEO to capture early stage awareness",
+                    "path": "/service",
+                    "images": [
+                        {
+                            "src": "../images/icons/08.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Link Building",
+                    "description": "Our full-service link building company specializes in custom link building",
+                    "path": "/service",
+                    "images": [
+                        {
+                            "src": "../images/icons/09.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Paid Search",
+                    "description": "Search engine marketing (SEM, which can include SEO), pay-per-click (PPC)",
+                    "path": "/service",
+                    "images": [
+                        {
+                            "src": "../images/icons/10.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "section": "process-section",
+            "section_title": {
+                "title": "Simple, Fast & Effective",
+                "subtitle": "How It Works",
+                "description": "Learn about my working process to know what to expect when choosing me. <br/> I want my clients to know what they’re receiving"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Keyword Research",
+                    "description": "Search engine optimization professional’s research keywords",
+                    "images": [
+                        {
+                            "src": "../images/icons/29.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Analyze Website",
+                    "description": "My consultants will analyze your website to check its structure",
+                    "images": [
+                        {
+                            "src": "../images/icons/30.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Link Building",
+                    "description": "I don’t go for volume when it comes to link building but quality",
+                    "images": [
+                        {
+                            "src": "../images/icons/31.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Report Results",
+                    "description": "I provide reports to my clients on the progress of my campaigns",
+                    "images": [
+                        {
+                            "src": "../images/icons/32.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "section": "project-section",
+            "section_title": {
+                "title": "Latest Projects",
+                "subtitle": "My Work"
+            }
+        },
+        {
+            "section": "testimonial-section",
+            "section_title": {
+                "subtitle": "Testimonials",
+                "title": "Trusted From My Clients"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Julia Steve",
+                    "designation": "Manager",
+                    "company": "Spotify LLC",
+                    "description": "Kelly Chandler is definitely an expert in digital marketing! She is always doing a great job and takes time to explain her thoughts and her process. She doesn't hesitate to share new ideas and be proactive all the time, which is great when you want to grow your business. Thank you very much.",
+                    "images": [
+                        {
+                            "src": "../images/testimonial/01.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Julia Smith",
+                    "designation": "Manager",
+                    "company": "Spotify LLC",
+                    "description": "Kelly Chandler is definitely an expert in digital marketing! She is always doing a great job and takes time to explain her thoughts and her process. She doesn't hesitate to share new ideas and be proactive all the time, which is great when you want to grow your business. Thank you very much.",
+                    "images": [
+                        {
+                            "src": "../images/testimonial/02.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Arya Stark",
+                    "designation": "Traveler",
+                    "company": "Westoros",
+                    "description": "Kelly Chandler is definitely an expert in digital marketing! She is always doing a great job and takes time to explain her thoughts and her process. She doesn't hesitate to share new ideas and be proactive all the time, which is great when you want to grow your business. Thank you very much.",
+                    "images": [
+                        {
+                            "src": "../images/testimonial/03.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "section": "article-section",
+            "section_title": {
+                "subtitle": "Blog",
+                "title": "Tips & Tricks"
+            }
+        }
+    ]
+}

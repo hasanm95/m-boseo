@@ -1,0 +1,26 @@
+{
+  "name": "strapi-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Hasan Moboarak",
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "start": "gatsby develop",
+    "serve": "gatsby serve",
+    "develop:share": "gatsby develop -H 0.0.0.0 -p 8000",
+    "build:prefix": "gatsby build --prefix-paths",
+    "serve:prefix": "gatsby serve --prefix-paths",
+    "gatsby-clean": "gatsby clean",
+    "lint": "eslint --ignore-path .gitignore . --ext ts --ext tsx --ext js --ext jsx",
+    "lint:fix": "yarn lint --fix",
+    "clean": "rimraf dist *.tsbuildinfo node_modules public dist .cache"
+  },
+  "dependencies": {
+    "gatsby": "^4.1.6",
+    "gatsby-theme-boseo": "*",
+    "gatsby-theme-strapi": "*",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}

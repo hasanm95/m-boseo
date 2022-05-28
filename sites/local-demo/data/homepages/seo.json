@@ -1,0 +1,377 @@
+{
+    "title": "seo",
+    "content": [
+        {
+            "section": "hero-section",
+            "headings": [
+                {
+                    "id": 1,
+                    "level": "h1",
+                    "content": "Best Solutions <br>SEO & Marketing for Business"
+                }
+            ],
+            "texts": [
+                {
+                    "id": 1,
+                    "content": "We help businesses of all shapes and sizes to thrive in the online world. Our skills span a wide range of creative and technical areas, allowing us to cover every corner of a digital marketing campaign."
+                }
+            ],
+            "images": [
+                {
+                    "src": "../images/photos/vector/seo.png"
+                }
+            ],
+            "buttons": [
+                {
+                    "id": 1,
+                    "path": "/contact",
+                    "content": "Start Now"
+                },
+                {
+                    "id": 2,
+                    "path": "/service",
+                    "variant": "texted",
+                    "iconClass": "fa fa-paper-plane",
+                    "iconSize": "lg",
+                    "content": "Join us on Telegram"
+                }
+            ]
+        },
+        {
+            "section": "service-section",
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Organic Search (SEO)",
+                    "description": "Stop selling. Start helping. Utilize SEO to capture early stage awareness queries through relevant content",
+                    "path": "/service",
+                    "images": [
+                        {
+                            "src": "../images/icons/11.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Link Building Services",
+                    "description": "Our full-service link building company specializes in custom link building campaigns that earn high-quality links",
+                    "path": "/service",
+                    "images": [
+                        {
+                            "src": "../images/icons/12.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Paid Search (PPC)",
+                    "description": "Search engine marketing (SEM, which can include SEO), pay-per-click (PPC), search engine advertising sponsored",
+                    "path": "/service",
+                    "images": [
+                        {
+                            "src": "../images/icons/13.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "SEO Auditing Services",
+                    "description": "If you haven't recently audited you website, we recommend an SEO audit before you begin a campaign",
+                    "path": "/service",
+                    "images": [
+                        {
+                            "src": "../images/icons/38.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "B2B SEO Services",
+                    "description": "B2B SEO campaign will include a study of business goals, followed by an evaluation of pre-purchase",
+                    "path": "/service",
+                    "images": [
+                        {
+                            "src": "../images/icons/39.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "title": "Full Service SEO",
+                    "description": "Based in Americas, Boseo offers full service SEO marketing solutions for companies of all sizes and types",
+                    "path": "/service",
+                    "images": [
+                        {
+                            "src": "../images/icons/40.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "section": "about-section",
+            "section_title": {
+                "title": "Boseo is a digital marketing agency with offices in California and New York",
+                "subtitle": "Who We Are",
+                "description": "Having worked with hundreds of companies from small businesses to Fortune 1000’s, we understand your pain points. We also understand we aren’t the right agency for every business. We want to work with businesses that want a partner, not a doer."
+            },
+            "buttons": [
+                {
+                    "id": 1,
+                    "path": "/about",
+                    "content": "More About Us"
+                }
+            ],
+            "video_button": {
+                "video_id": "XKJqBM11cMU",
+                "video_platform": "youtube",
+                "content": "See Video"
+            },
+            "images": [
+                {
+                    "src": "../images/about/v03.png"
+                }
+            ]
+        },
+        {
+            "section": "funfact-section",
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Completed Projects",
+                    "number": 3245,
+                    "suffix": "+"
+                },
+                {
+                    "id": 2,
+                    "title": "Award Winner",
+                    "number": 59
+                },
+                {
+                    "id": 3,
+                    "title": "Worldwide Users",
+                    "number": 234,
+                    "suffix": "k"
+                },
+                {
+                    "id": 4,
+                    "title": "Satisfied Clients",
+                    "number": 825
+                }
+            ]
+        },
+        {
+            "section": "project-section",
+            "section_title": {
+                "title": "Latest Projects",
+                "subtitle": "My Work"
+            }
+        },
+        {
+            "section": "testimonial-section",
+            "section_title": {
+                "subtitle": "Testimonials",
+                "title": "Trusted From My Clients"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Julia Steve",
+                    "designation": "Manager",
+                    "company": "Spotify LLC",
+                    "description": "Kelly Chandler is definitely an expert in digital marketing! She is always doing a great job and takes time to explain her thoughts and her process. She doesn't hesitate to share new ideas and be proactive all the time, which is great when you want to grow your business. Thank you very much.",
+                    "images": [
+                        {
+                            "src": "../images/testimonial/03.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Julia Smith",
+                    "designation": "Manager",
+                    "company": "Spotify LLC",
+                    "description": "Kelly Chandler is definitely an expert in digital marketing! She is always doing a great job and takes time to explain her thoughts and her process. She doesn't hesitate to share new ideas and be proactive all the time, which is great when you want to grow your business. Thank you very much.",
+                    "images": [
+                        {
+                            "src": "../images/testimonial/04.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Arya Stark",
+                    "designation": "Traveler",
+                    "company": "Westoros",
+                    "description": "Kelly Chandler is definitely an expert in digital marketing! She is always doing a great job and takes time to explain her thoughts and her process. She doesn't hesitate to share new ideas and be proactive all the time, which is great when you want to grow your business. Thank you very much.",
+                    "images": [
+                        {
+                            "src": "../images/testimonial/01.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "section": "client-section",
+            "items": [
+                {
+                    "id": 1,
+                    "title": "client 01",
+                    "images": [
+                        {
+                            "src": "../images/brand-logo/1.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "client 02",
+                    "images": [
+                        {
+                            "src": "../images/brand-logo/2.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "client 03",
+                    "images": [
+                        {
+                            "src": "../images/brand-logo/3.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "client 04",
+                    "images": [
+                        {
+                            "src": "../images/brand-logo/4.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "client 05",
+                    "images": [
+                        {
+                            "src": "../images/brand-logo/5.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "section": "pricing-section",
+            "section_title": {
+                "subtitle": "Pricing Table",
+                "title": "Choose Your Best Plan"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Entrepreneur",
+                    "amount": 29,
+                    "period": "monthly",
+                    "popular": false,
+                    "images": [{ "src": "../images/photos/pricing-v01.png" }],
+                    "features": [
+                        { "id": 1, "content": "25 Analytics Compaign" },
+                        { "id": 2, "content": "1,300 Change Keywords" },
+                        { "id": 3, "content": "1 Free Optimization" },
+                        { "id": 4, "content": "24/7 support" }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Grow Business",
+                    "amount": 89,
+                    "period": "monthly",
+                    "popular": true,
+                    "images": [{ "src": "../images/photos/pricing-v02.png" }],
+                    "features": [
+                        { "id": 1, "content": "80 Analytics Compaign" },
+                        { "id": 2, "content": "1,500 Change Keywords" },
+                        { "id": 3, "content": "3 Free Optimization" },
+                        { "id": 4, "content": "24/7 support" }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Pro Business",
+                    "amount": 59,
+                    "period": "monthly",
+                    "popular": false,
+                    "images": [{ "src": "../images/photos/pricing-v03.png" }],
+                    "features": [
+                        { "id": 1, "content": "100 Analytics Compaign" },
+                        { "id": 2, "content": "2,300 Change Keywords" },
+                        { "id": 3, "content": "5 Free Optimization" },
+                        { "id": 4, "content": "24/7 support" }
+                    ]
+                }
+            ]
+        },
+        {
+            "section": "divider-section",
+            "headings": [
+                {
+                    "id": 1,
+                    "content": "Free SEO Reports",
+                    "level": "h4"
+                }
+            ],
+            "section_title": {
+                "title": "How much more <br /> traffic should you actually <br /> be getting",
+                "subtitle": "SEO Reports",
+                "description": "These free SEO reports are also called as free SEO audits at times. They comprise some many important features as mentioned below"
+            },
+            "show_form": true,
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Site architecture"
+                },
+                {
+                    "id": 2,
+                    "title": "Web content issues"
+                },
+                {
+                    "id": 3,
+                    "title": "Usabity issues"
+                },
+                {
+                    "id": 4,
+                    "title": "Site navigation issues"
+                },
+
+                {
+                    "id": 5,
+                    "title": "Inbound nk analysis"
+                },
+                {
+                    "id": 6,
+                    "title": "Outbound nk analysis"
+                },
+                {
+                    "id": 7,
+                    "title": "Site domain issues"
+                }
+            ]
+        },
+        {
+            "section": "article-section",
+            "section_title": {
+                "title": "Latest Posts",
+                "subtitle": "Our Blog"
+            }
+        },
+        {
+            "section": "newsletter-section",
+            "section_title": {
+                "title": "Come Work With Us!"
+            }
+        }
+    ]
+}

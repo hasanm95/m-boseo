@@ -1,0 +1,19 @@
+{
+    "id": "header-data-04",
+    "section": "header-04",
+    "logo": [
+        {
+            "src": "../images/logo-business.png",
+            "alt": "logo"
+        },
+        {
+            "src": "../images/logo-light.png",
+            "alt": "logo"
+        }
+    ],
+    "enable_search": true,
+    "button": {
+        "path": "/service",
+        "content": "Free SEO Analys"
+    }
+}

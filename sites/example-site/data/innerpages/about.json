@@ -1,0 +1,501 @@
+{
+    "title": "about",
+    "content": [
+        {
+            "section": "page-header-section",
+            "headings": [
+                {
+                    "level": "h1",
+                    "content": "We Are Constantly Ranked as Best SEO Services Company"
+                }
+            ],
+            "texts": [
+                {
+                    "id": 1,
+                    "content": "Whether you do a search for “London seo”, “London web or a variety of other highly competitive terms in our industry you will find that we completely dominate our competitors at our own game. Further, you will see we are the top rated firm with 67 reviews on Google giving us 4.8 stars."
+                }
+            ],
+            "images": [
+                {
+                    "src": "../images/about/v06.png"
+                }
+            ]
+        },
+        {
+            "section": "service-section",
+            "section_title": {
+                "title": "Services We Provide Special For You",
+                "subtitle": "Services",
+                "description": "BOSEO is a full-service digital marketing agency with a long history of delivering great results for our clients. We take an individualized approach to every customer project."
+            },
+            "buttons": [
+                {
+                    "id": 1,
+                    "path": "/service",
+                    "content": "All Services"
+                }
+            ],
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Organic Search",
+                    "description": "Stop selling. Start helping. Utilize SEO to capture early stage awareness",
+                    "images": [
+                        {
+                            "src": "../images/icons/01.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Link Building",
+                    "description": "Our full-service link building company specializes in custom link building",
+                    "images": [
+                        {
+                            "src": "../images/icons/02.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Paid Search",
+                    "description": "Search engine marketing (SEM, which can include SEO), pay-per-click (PPC)",
+                    "images": [
+                        {
+                            "src": "../images/icons/03.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "SEO Auditing",
+                    "description": "If you haven't recently audit website, we recommend an SEO audit",
+                    "images": [
+                        {
+                            "src": "../images/icons/04.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "section": "process-tab-section",
+            "section_title": {
+                "title": "Our Process",
+                "subtitle": "How It Works"
+            }
+        },
+        {
+            "section": "process-research-section",
+            "section_title": {
+                "title": "Keyword <br/> Research",
+                "image": {
+                    "src": "../images/icons/25.png"
+                }
+            },
+            "headings": [
+                {
+                    "level": "h4",
+                    "content": "Keyword Research is a Practice Search Engine Optimization"
+                }
+            ],
+            "texts": [
+                {
+                    "id": 1,
+                    "content": "Search engine optimization professional’s research keywords, which they use to achieve better rankings in search engines. Our consultants will start by getting to know you and your business. We’ll make every effort to get an understanding of your objectives, products and production."
+                }
+            ],
+            "items": [
+                {
+                    "id": 1,
+                    "title": "We always ensure that we have selected keywords that have the least number of competitors."
+                },
+                {
+                    "id": 2,
+                    "title": "We’ll also analyze search data for your niche"
+                },
+                {
+                    "id": 3,
+                    "title": "We’ll find the best keywords that we can focus the campaign around."
+                }
+            ],
+            "images": [
+                {
+                    "src": "../images/photos/vector/working-process-01.png"
+                }
+            ]
+        },
+        {
+            "section": "process-analyze-section",
+            "section_title": {
+                "title": "Analyze <br/> Website",
+                "image": {
+                    "src": "../images/icons/26.png"
+                }
+            },
+            "headings": [
+                {
+                    "level": "h4",
+                    "content": "Analyze Website is a Practice Search Engine Optimization"
+                }
+            ],
+            "texts": [
+                {
+                    "id": 1,
+                    "content": "Search engine optimization professional’s research keywords, which they use to achieve better rankings in search engines. Our consultants will start by getting to know you and your business. We’ll make every effort to get an understanding of your objectives, products and production."
+                }
+            ],
+            "items": [
+                {
+                    "id": 1,
+                    "title": "We always ensure that we have selected keywords that have the least number of competitors."
+                },
+                {
+                    "id": 2,
+                    "title": "We’ll also analyze search data for your niche"
+                },
+                {
+                    "id": 3,
+                    "title": "We’ll find the best keywords that we can focus the campaign around."
+                }
+            ],
+            "images": [
+                {
+                    "src": "../images/photos/vector/working-process-01.png"
+                }
+            ]
+        },
+        {
+            "section": "process-link-section",
+            "section_title": {
+                "title": "Link <br/> Building",
+                "image": {
+                    "src": "../images/icons/27.png"
+                }
+            },
+            "headings": [
+                {
+                    "level": "h4",
+                    "content": "Link Building is a Practice Search Engine Optimization"
+                }
+            ],
+            "texts": [
+                {
+                    "id": 1,
+                    "content": "Search engine optimization professional’s research keywords, which they use to achieve better rankings in search engines. Our consultants will start by getting to know you and your business. We’ll make every effort to get an understanding of your objectives, products and production."
+                }
+            ],
+            "items": [
+                {
+                    "id": 1,
+                    "title": "We always ensure that we have selected keywords that have the least number of competitors."
+                },
+                {
+                    "id": 2,
+                    "title": "We’ll also analyze search data for your niche"
+                },
+                {
+                    "id": 3,
+                    "title": "We’ll find the best keywords that we can focus the campaign around."
+                }
+            ],
+            "images": [
+                {
+                    "src": "../images/photos/vector/working-process-01.png"
+                }
+            ]
+        },
+        {
+            "section": "process-report-section",
+            "section_title": {
+                "title": "Report <br/> Results",
+                "image": {
+                    "src": "../images/icons/28.png"
+                }
+            },
+            "headings": [
+                {
+                    "level": "h4",
+                    "content": "Report Results is a Practice Search Engine Optimization"
+                }
+            ],
+            "texts": [
+                {
+                    "id": 1,
+                    "content": "Search engine optimization professional’s research keywords, which they use to achieve better rankings in search engines. Our consultants will start by getting to know you and your business. We’ll make every effort to get an understanding of your objectives, products and production."
+                }
+            ],
+            "items": [
+                {
+                    "id": 1,
+                    "title": "We always ensure that we have selected keywords that have the least number of competitors."
+                },
+                {
+                    "id": 2,
+                    "title": "We’ll also analyze search data for your niche"
+                },
+                {
+                    "id": 3,
+                    "title": "We’ll find the best keywords that we can focus the campaign around."
+                }
+            ],
+            "images": [
+                {
+                    "src": "../images/photos/vector/working-process-01.png"
+                }
+            ]
+        },
+        {
+            "section": "testimonial-section",
+            "section_title": {
+                "subtitle": "Testimonials",
+                "title": "Trusted From My Clients"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Anna Houston",
+                    "designation": "Manager",
+                    "company": "Spotify LLC",
+                    "description": "We’ve been with higher visibility for about two months now and with the help of our account manager Lauren Moscato, we’ve been able to improve our website and rankings dramatically. We will be continuing business with them and are excited to see what’s to come.",
+                    "images": [
+                        {
+                            "src": "../images/testimonial/03.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Julia Smith",
+                    "designation": "Owner",
+                    "company": "MyResort.com",
+                    "description": "We’ve been with higher visibility for about two months now and with the help of our account manager Lauren Moscato, we’ve been able to improve our website and rankings dramatically. We will be continuing business with them and are excited to see what’s to come.",
+                    "images": [
+                        {
+                            "src": "../images/testimonial/01.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Julia Smith",
+                    "designation": "CEO",
+                    "company": "Google Inc",
+                    "description": "We’ve been with higher visibility for about two months now and with the help of our account manager Lauren Moscato, we’ve been able to improve our website and rankings dramatically. We will be continuing business with them and are excited to see what’s to come.",
+                    "images": [
+                        {
+                            "src": "../images/testimonial/02.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "section": "client-section",
+            "items": [
+                {
+                    "id": 1,
+                    "title": "client 01",
+                    "images": [
+                        {
+                            "src": "../images/brand-logo/1.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "client 01",
+                    "images": [
+                        {
+                            "src": "../images/brand-logo/2.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "client 01",
+                    "images": [
+                        {
+                            "src": "../images/brand-logo/3.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "client 01",
+                    "images": [
+                        {
+                            "src": "../images/brand-logo/4.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "client 01",
+                    "images": [
+                        {
+                            "src": "../images/brand-logo/5.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "section": "team-section",
+            "section_title": {
+                "subtitle": "Trusted Experts",
+                "title": "Meet Our Team"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Seth Norwood",
+                    "designation": "Lead Analyst",
+                    "description": "Seth has over 14 years of direct, hands-on internet marketing experi- ence. He has been the SEO Manager for a top interactive agency as well as several large e-commerce sites",
+                    "images": [
+                        {
+                            "src": "../images/team/01.jpg"
+                        }
+                    ],
+                    "socials": [
+                        {
+                            "id": 1,
+                            "link": "https://facebook.com",
+                            "icon": "fa fa-facebook",
+                            "title": "Facebook"
+                        },
+                        {
+                            "id": 2,
+                            "link": "https://twitter.com",
+                            "icon": "fa fa-twitter",
+                            "title": "twitter"
+                        },
+                        {
+                            "id": 3,
+                            "link": "https://linkedin.com",
+                            "icon": "fa fa-linkedin",
+                            "title": "linkedin"
+                        },
+                        {
+                            "id": 4,
+                            "link": "https://dribbble.com",
+                            "icon": "fa fa-dribbble",
+                            "title": "dribbble"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Sabrina Brooks",
+                    "designation": "SEO Strategist",
+                    "description": "Sabrina has over 14 years of direct, hands-on internet marketing experi- ence. He has been the SEO Manager for a top interactive agency as well as several large e-commerce sites",
+                    "images": [
+                        {
+                            "src": "../images/team/02.jpg"
+                        }
+                    ],
+                    "socials": [
+                        {
+                            "id": 1,
+                            "link": "https://facebook.com",
+                            "icon": "fa fa-facebook",
+                            "title": "Facebook"
+                        },
+                        {
+                            "id": 2,
+                            "link": "https://twitter.com",
+                            "icon": "fa fa-twitter",
+                            "title": "twitter"
+                        },
+                        {
+                            "id": 3,
+                            "link": "https://linkedin.com",
+                            "icon": "fa fa-linkedin",
+                            "title": "linkedin"
+                        },
+                        {
+                            "id": 4,
+                            "link": "https://dribbble.com",
+                            "icon": "fa fa-dribbble",
+                            "title": "dribbble"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Darian Cloward",
+                    "designation": "Account Manager",
+                    "description": "Darian has over 14 years of direct, hands-on internet marketing experi- ence. He has been the SEO Manager for a top interactive agency as well as several large e-commerce sites",
+                    "images": [
+                        {
+                            "src": "../images/team/03.jpg"
+                        }
+                    ],
+                    "socials": [
+                        {
+                            "id": 1,
+                            "link": "https://facebook.com",
+                            "icon": "fa fa-facebook",
+                            "title": "Facebook"
+                        },
+                        {
+                            "id": 2,
+                            "link": "https://twitter.com",
+                            "icon": "fa fa-twitter",
+                            "title": "twitter"
+                        },
+                        {
+                            "id": 3,
+                            "link": "https://linkedin.com",
+                            "icon": "fa fa-linkedin",
+                            "title": "linkedin"
+                        },
+                        {
+                            "id": 4,
+                            "link": "https://dribbble.com",
+                            "icon": "fa fa-dribbble",
+                            "title": "dribbble"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "James Baker",
+                    "designation": "SEO Engineer",
+                    "description": "James has over 14 years of direct, hands-on internet marketing experi- ence. He has been the SEO Manager for a top interactive agency as well as several large e-commerce sites",
+                    "images": [
+                        {
+                            "src": "../images/team/04.jpg"
+                        }
+                    ],
+                    "socials": [
+                        {
+                            "id": 1,
+                            "link": "https://facebook.com",
+                            "icon": "fa fa-facebook",
+                            "title": "Facebook"
+                        },
+                        {
+                            "id": 2,
+                            "link": "https://twitter.com",
+                            "icon": "fa fa-twitter",
+                            "title": "twitter"
+                        },
+                        {
+                            "id": 3,
+                            "link": "https://linkedin.com",
+                            "icon": "fa fa-linkedin",
+                            "title": "linkedin"
+                        },
+                        {
+                            "id": 4,
+                            "link": "https://dribbble.com",
+                            "icon": "fa fa-dribbble",
+                            "title": "dribbble"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

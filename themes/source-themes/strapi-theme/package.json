@@ -1,0 +1,22 @@
+{
+  "name": "gatsby-theme-strapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint --ignore-path .gitignore . --ext ts --ext tsx --ext js --ext jsx",
+    "lint:fix": "yarn lint --fix",
+    "clean": "rimraf dist *.tsbuildinfo node_modules public dist .cache yarn-error.log"
+  },
+  "peerDependencies": {},
+  "dependencies": {
+    "@pondorasti/remark-img-links": "^1.0.8",
+    "gatsby-source-strapi": "^1.0.2",
+    "rehype-raw": "5.1.0",
+    "rehype-stringify": "8.0.0",
+    "remark-parse": "6.0.1",
+    "remark-rehype": "8.1.0",
+    "unified": "9.2.0"
+  },
+  "devDependencies": {}
+}

@@ -1,0 +1,48 @@
+{
+    "id": "footer-data-03",
+    "section": "footer-03",
+    "logo": [
+        {
+            "src": "../images/logo-seo.png",
+            "alt": "logo"
+        },
+        {
+            "src": "../images/logo-light.png",
+            "alt": "logo"
+        }
+    ],
+    "widgets": [
+        {
+            "id": 1,
+            "widget": "contact-widget",
+            "title": "Contact"
+        },
+        {
+            "id": 2,
+            "widget": "quick-link-widget",
+            "menu": [
+                {
+                    "id": 1,
+                    "text": "Home",
+                    "link": "/"
+                },
+                {
+                    "id": 2,
+                    "text": "Services",
+                    "link": "/service"
+                },
+                {
+                    "id": 3,
+                    "text": "FAQs",
+                    "link": "/faq"
+                },
+                {
+                    "id": 5,
+                    "text": "Contact",
+                    "link": "/contact"
+                }
+            ]
+        }
+    ],
+    "copyright_text": "All Rights Reserved"
+}

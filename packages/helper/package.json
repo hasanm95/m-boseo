@@ -1,0 +1,15 @@
+{
+  "name": "@boseo/helper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Hasan Moboarak",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint --ignore-path .gitignore . --ext ts --ext tsx --ext js --ext jsx",
+    "lint:fix": "yarn lint --fix",
+    "clean": "rimraf dist *.tsbuildinfo node_modules public dist yarn-error.log"
+  },
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  }
+}

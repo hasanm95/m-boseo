@@ -1,0 +1,33 @@
+{
+    "username": "Jowel Patwary",
+    "avatar": {
+        "src": "../images/photos/author-02.png"
+    },
+    "socials": [
+        {
+            "id": 1,
+            "icon": "fa fa-facebook",
+            "link": "https://facebook.com",
+            "title": "Facebook"
+        },
+        {
+            "id": 2,
+            "icon": "fa fa-twitter",
+            "link": "https://twitter.com",
+            "title": "Twitter"
+        },
+        {
+            "id": 3,
+            "icon": "fa fa-instagram",
+            "link": "https://instagram.com",
+            "title": "Instagram"
+        },
+        {
+            "id": 4,
+            "icon": "fa fa-linkedin",
+            "link": "https://linkedin.com",
+            "title": "linkedin"
+        }
+    ],
+    "bio": "Jowel Patwary is an author, blogger, and designer living in a suburb of Washington, DC. When he’s not designing, blogging, or writing, Ferguson can be found with his head in a book or pinning like a madman."
+}

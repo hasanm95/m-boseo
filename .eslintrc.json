@@ -1,0 +1,52 @@
+{
+    "parser": "@babel/eslint-parser",
+    "root": true,
+    "extends": [
+        "plugin:import/warnings",
+        "plugin:jsx-a11y/strict",
+        "plugin:prettier/recommended",
+        "airbnb"
+    ],
+    "env": {
+        "browser": true,
+        "node": true,
+        "es6": true
+    },
+    "plugins": ["prettier", "jsx-a11y"],
+    "settings": {
+        "import/internal-regex": "(^gatsby-theme-|@boseo)",
+        "import/core-modules": [
+            "react",
+            "react-dom",
+            "gatsby",
+            "gatsby-plugin-image",
+            "prop-types",
+            "theme-ui",
+            "gatsby-source-filesystem"
+        ]
+    },
+    "parserOptions": {
+        "ecmaVersion": 2016, // Allows for the parsing of modern ECMAScript features
+        "sourceType": "module", // Allows for the use of imports
+        "ecmaFeatures": {
+            "jsx": true
+        },
+        "babelOptions": {
+            "rootMode": "upward"
+        }
+    },
+    "rules": {
+        "object-curly-newline": "off",
+        "import/prefer-default-export": "off",
+        "prettier/prettier": "error",
+        "indent": ["error", 4],
+        "quotes": ["error", "double", { "allowTemplateLiterals": true }],
+        "no-unused-vars": "warn",
+        "camelcase": ["off", { "properties": "never" }],
+        "eslint-plugin/fixer-return:": "off",
+        "operator-linebreak": "off",
+        "implicit-arrow-linebreak": "off",
+        "comma-dangle": ["error", "only-multiline"],
+        "function-paren-newline": "off"
+    }
+}

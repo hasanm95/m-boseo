@@ -1,0 +1,49 @@
+{
+    "id": "footer-data-02",
+    "section": "footer-02",
+    "logo": [
+        {
+            "src": "../images/logo.png",
+            "alt": "logo"
+        },
+        {
+            "src": "../images/logo-light.png",
+            "alt": "logo"
+        }
+    ],
+    "widgets": [
+        {
+            "id": 1,
+            "widget": "newsletter-widget",
+            "title": "newsletter"
+        },
+        {
+            "id": 2,
+            "widget": "quick-link-widget",
+            "title": "Quick Links",
+            "menu": [
+                {
+                    "id": 1,
+                    "text": "Home",
+                    "link": "/"
+                },
+                {
+                    "id": 2,
+                    "text": "Services",
+                    "link": "/service"
+                },
+                {
+                    "id": 3,
+                    "text": "About Us",
+                    "link": "/about"
+                },
+                {
+                    "id": 5,
+                    "text": "Contact",
+                    "link": "/contact"
+                }
+            ]
+        }
+    ],
+    "copyright_text": "All Rights Reserved"
+}

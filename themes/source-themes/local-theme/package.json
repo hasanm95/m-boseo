@@ -1,0 +1,17 @@
+{
+  "name": "gatsby-theme-local",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Hasan Moboarak",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint --ignore-path .gitignore . --ext ts --ext tsx --ext js --ext jsx",
+    "lint:fix": "yarn lint --fix",
+    "clean": "rimraf dist *.tsbuildinfo node_modules public dist .cache yarn-error.log"
+  },
+  "dependencies": {
+    "gatsby-transformer-json": "^4.1.0",
+    "gatsby-transformer-remark": "^5.1.4",
+    "mkdirp": "^1.0.4"
+  }
+}

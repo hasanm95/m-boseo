@@ -1,0 +1,42 @@
+{
+    "title": "faq",
+    "content": [
+        {
+            "section": "page-header-section",
+            "pageName": "FAQs",
+            "images": [
+                {
+                    "src": "../images/photos/page-title-02.jpg"
+                }
+            ]
+        },
+        {
+            "section": "faq-section",
+            "section_title": {
+                "title": "Frequently Asked Questions"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "What is the influence of SEO errors on the page ranking?",
+                    "description": "Proper technical on page optimization is one of the important signals for search engine robots about the quality of your site. With optimizing the page based on recommendations of our website analyzer you can: Increase the amount of organic traffic by correctly filling the title, description, alt tags and check redirects. Improve the seo ranking positions of the site in the search engines by increasing the speed of the site and eliminating broken links. Eliminate the major site’s vulnerabilities. As a result, you won’t become a victim of unfair competition."
+                },
+                {
+                    "id": 2,
+                    "title": "How to use SEO analyzer correctly?",
+                    "description": "Proper technical on page optimization is one of the important signals for search engine robots about the quality of your site. With optimizing the page based on recommendations of our website analyzer you can: Increase the amount of organic traffic by correctly filling the title, description, alt tags and check redirects. Improve the seo ranking positions of the site in the search engines by increasing the speed of the site and eliminating broken links. Eliminate the major site’s vulnerabilities. As a result, you won’t become a victim of unfair competition."
+                },
+                {
+                    "id": 3,
+                    "title": "What does the page SEO score mean in Sitechecker?",
+                    "description": "Proper technical on page optimization is one of the important signals for search engine robots about the quality of your site. With optimizing the page based on recommendations of our website analyzer you can: Increase the amount of organic traffic by correctly filling the title, description, alt tags and check redirects. Improve the seo ranking positions of the site in the search engines by increasing the speed of the site and eliminating broken links. Eliminate the major site’s vulnerabilities. As a result, you won’t become a victim of unfair competition."
+                },
+                {
+                    "id": 4,
+                    "title": "How to work with the results of website scan?",
+                    "description": "Proper technical on page optimization is one of the important signals for search engine robots about the quality of your site. With optimizing the page based on recommendations of our website analyzer you can: Increase the amount of organic traffic by correctly filling the title, description, alt tags and check redirects. Improve the seo ranking positions of the site in the search engines by increasing the speed of the site and eliminating broken links. Eliminate the major site’s vulnerabilities. As a result, you won’t become a victim of unfair competition."
+                }
+            ]
+        }
+    ]
+}

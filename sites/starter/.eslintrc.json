@@ -1,0 +1,35 @@
+{
+    "globals": {
+        "__PATH_PREFIX__": true
+    },
+    "extends": [
+        "../../.eslintrc.json",
+        "plugin:react/recommended",
+        "airbnb/hooks",
+        "plugin:react-hooks/recommended"
+    ],
+    "settings": {
+        "react": {
+            "version": "detect"
+        }
+    },
+    "parserOptions": {
+        "ecmaFeatures": {
+            "jsx": true
+        }
+    },
+    "plugins": ["react", "react-hooks"],
+    "rules": {
+        "react/jsx-indent": [2, 4],
+        "react/jsx-indent-props": "off",
+        "react/jsx-one-expression-per-line": "off",
+        "no-unused-vars": ["warn", { "varsIgnorePattern": "(jsx)|(React)" }],
+        "react/jsx-props-no-spreading": "off",
+        "react/jsx-uses-react": "off",
+        "react/react-in-jsx-scope": "off",
+        "react/require-default-props": 0,
+        "react-hooks/rules-of-hooks": "error",
+        "react-hooks/exhaustive-deps": "warn",
+        "react/no-danger": "off"
+    }
+}

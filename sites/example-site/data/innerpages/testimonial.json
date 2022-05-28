@@ -1,0 +1,86 @@
+{
+    "title": "testimonial",
+    "content": [
+        {
+            "section": "page-header-section",
+            "pageName": "Testimonials"
+        },
+        {
+            "section": "testimonial-section",
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Chris Carroll",
+                    "designation": "CEO Founder",
+                    "company": "Google Inc",
+                    "description": "Kelly Chandler is definitely an expert in digital marketing! She is always doing a great job and takes time to explain her thoughts and her process. She doesn't hesitate to share new ideas and be proactive all the time, which is great when you want to grow your business. Thank you very much.",
+                    "images": [
+                        {
+                            "src": "../images/testimonial/01.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Julia Steve",
+                    "designation": "Manager",
+                    "company": "Spotify LLC",
+                    "description": "We’ve been with higher visibility for about two months now and with the help of our account manager Lauren Moscato, we’ve been able to improve our website and rankings dramatically. We will be continuing business with them and are excited to see what’s to come.",
+                    "images": [
+                        {
+                            "src": "../images/testimonial/02.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Anna Houston",
+                    "designation": "Senior Executive",
+                    "company": "Dropbox",
+                    "description": "A company that delivers results from the moment you start. We had been managing our own accounts and our SEO had only been a small part of our efforts. With Higher Visibility a weight was lifted off our shoulders on the campaigns they now manage and our SEO ranking is growing daily.",
+                    "images": [
+                        {
+                            "src": "../images/testimonial/03.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Ed Dodd",
+                    "designation": "CEO",
+                    "company": "Senior Executive",
+                    "description": "I wanted to take a moment and let you know how happy we are. You have show great knowledge in regards to SEO best practices as well as optimization strategy and management of the BOSEO.com account. Most importantly, you have obtained results, and that is an undeniable measure.",
+                    "images": [
+                        {
+                            "src": "../images/testimonial/04.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "Mike Barton",
+                    "designation": "Owner",
+                    "company": "MyResort.com",
+                    "description": "MyResort.com has quadrupled their visitors thanks to BOSEO. They have adjusted our pages, and given us recommendations to make ourselves. They have made us one of the top timeshare companies in the world. Their account manager for us has been very responsive to our needs.",
+                    "images": [
+                        {
+                            "src": "../images/testimonial/05.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "title": "Mark Denham",
+                    "designation": "President",
+                    "company": "247 Workspace",
+                    "description": "We are a very satisfied client of BOSEO. Our traffic has increased substantially as well as a significant increase in the quality of our leads. Their efforts have contributed to a 40% increase in our sales. Garry and his team have been great to work with...the bottom line is that BOSEO. delivers results...the rest of them just talk about it.",
+                    "images": [
+                        {
+                            "src": "../images/testimonial/06.jpg"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

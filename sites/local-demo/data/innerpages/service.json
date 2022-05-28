@@ -1,0 +1,179 @@
+{
+    "title": "service",
+    "content": [
+        {
+            "section": "page-header-section",
+            "pageName": "SEO Service"
+        },
+        {
+            "section": "divider-section",
+            "section_title": {
+                "title": "What Is Search Engine <br/> Optimization (SEO)",
+                "description": "SEO is an acronym for Search Engine Optimization, which is the process of improving (optimizing) a website so that it is more readily found online. SEO primarily focuses on improving a website’s rankings in search engines like Google and BING. The higher a website appears in the search engine rankings, the greater the likelihood that it will be visited. When a website received more traffic, there is a likelihood for more business. Ready to get started?"
+            },
+            "images": [
+                {
+                    "src": "../images/service/03.png"
+                }
+            ]
+        },
+        {
+            "section": "service-section",
+            "section_title": {
+                "title": "Services We Provide Special For You",
+                "subtitle": "Services",
+                "description": "BOSEO is a full-service digital marketing agency with a long history of delivering great results for our clients. We take an individualized approach to every customer project."
+            },
+            "buttons": [
+                {
+                    "id": 1,
+                    "path": "/service",
+                    "content": "All Services"
+                }
+            ],
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Organic Search",
+                    "description": "Stop selling. Start helping. Utilize SEO to capture early stage awareness",
+                    "images": [
+                        {
+                            "src": "../images/icons/01.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Link Building",
+                    "description": "Our full-service link building company specializes in custom link building",
+                    "images": [
+                        {
+                            "src": "../images/icons/02.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Paid Search",
+                    "description": "Search engine marketing (SEM, which can include SEO), pay-per-click (PPC)",
+                    "images": [
+                        {
+                            "src": "../images/icons/03.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "SEO Auditing",
+                    "description": "If you haven't recently audit website, we recommend an SEO audit",
+                    "images": [
+                        {
+                            "src": "../images/icons/04.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "section": "pricing-section",
+            "section_title": {
+                "title": "Choose Your Best Plan",
+                "description": "Whether you’re freelancing or working at an agency, we have a plan to suit your needs. If you have any additional requirements about scaling Sitechecker for enterprise use"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Entrepreneur",
+                    "amount": 29,
+                    "period": "monthly",
+                    "popular": false,
+                    "images": [
+                        {
+                            "src": "../images/photos/pricing-v01.png"
+                        }
+                    ],
+                    "features": [
+                        { "id": 1, "content": "25 Analytics Compaign" },
+                        { "id": 2, "content": "1,300 Change Keywords" },
+                        { "id": 3, "content": "1 Free Optimization" },
+                        { "id": 4, "content": "24/7 support" }
+                    ],
+                    "path": "/"
+                },
+                {
+                    "id": 2,
+                    "title": "GROWING BUSINESS",
+                    "amount": 59,
+                    "period": "monthly",
+                    "popular": true,
+                    "images": [
+                        {
+                            "src": "../images/photos/pricing-v02.png"
+                        }
+                    ],
+                    "features": [
+                        { "id": 1, "content": "80 Analytics Compaign" },
+                        { "id": 2, "content": "1,500 Change Keywords" },
+                        { "id": 3, "content": "3 Free Optimization" },
+                        { "id": 4, "content": "24/7 support" }
+                    ],
+                    "path": "/"
+                },
+                {
+                    "id": 3,
+                    "title": "PRO BUSINESS",
+                    "amount": 99,
+                    "period": "monthly",
+                    "popular": false,
+                    "images": [
+                        {
+                            "src": "../images/photos/pricing-v03.png"
+                        }
+                    ],
+                    "features": [
+                        { "id": 1, "content": "100 Analytics Compaign" },
+                        { "id": 2, "content": "2,300 Change Keywords" },
+                        { "id": 3, "content": "5 Free Optimization" },
+                        { "id": 4, "content": "24/7 support" }
+                    ],
+                    "path": "/"
+                }
+            ]
+        },
+        {
+            "section": "newsletter-section",
+            "section_title": {
+                "title": "Free SEO Reports",
+                "description": "Bring more traffic to your website with the help of new proven techniques I can offer"
+            }
+        },
+        {
+            "section": "faq-section",
+            "section_title": {
+                "title": "Frequently Asked Questions"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "What is the influence of SEO errors on the page ranking?",
+                    "description": "Proper technical on page optimization is one of the important signals for search engine robots about the quality of your site. With optimizing the page based on recommendations of our website analyzer you can: Increase the amount of organic traffic by correctly filling the title, description, alt tags and check redirects. Improve the seo ranking positions of the site in the search engines by increasing the speed of the site and eliminating broken links. Eliminate the major site’s vulnerabilities. As a result, you won’t become a victim of unfair competition."
+                },
+                {
+                    "id": 2,
+                    "title": "How to use SEO analyzer correctly?",
+                    "description": "Proper technical on page optimization is one of the important signals for search engine robots about the quality of your site. With optimizing the page based on recommendations of our website analyzer you can: Increase the amount of organic traffic by correctly filling the title, description, alt tags and check redirects. Improve the seo ranking positions of the site in the search engines by increasing the speed of the site and eliminating broken links. Eliminate the major site’s vulnerabilities. As a result, you won’t become a victim of unfair competition."
+                },
+                {
+                    "id": 3,
+                    "title": "What does the page SEO score mean in Sitechecker?",
+                    "description": "Proper technical on page optimization is one of the important signals for search engine robots about the quality of your site. With optimizing the page based on recommendations of our website analyzer you can: Increase the amount of organic traffic by correctly filling the title, description, alt tags and check redirects. Improve the seo ranking positions of the site in the search engines by increasing the speed of the site and eliminating broken links. Eliminate the major site’s vulnerabilities. As a result, you won’t become a victim of unfair competition."
+                },
+                {
+                    "id": 4,
+                    "title": "How to work with the results of website scan?",
+                    "description": "Proper technical on page optimization is one of the important signals for search engine robots about the quality of your site. With optimizing the page based on recommendations of our website analyzer you can: Increase the amount of organic traffic by correctly filling the title, description, alt tags and check redirects. Improve the seo ranking positions of the site in the search engines by increasing the speed of the site and eliminating broken links. Eliminate the major site’s vulnerabilities. As a result, you won’t become a victim of unfair competition."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,313 @@
+{
+    "title": "business",
+    "content": [
+        {
+            "section": "hero-section",
+            "items": [
+                {
+                    "id": 1,
+                    "title": "<span>THE BEST SEO</span> <br/> COMPANY FOR GROW <br/> YOUR BUSINESS",
+                    "buttons": [
+                        {
+                            "id": 2,
+                            "content": "Free seo analys",
+                            "path": "/contact"
+                        },
+                        {
+                            "id": 1,
+                            "content": "Join us on telegram",
+                            "path": "/service",
+                            "variant": "texted",
+                            "color": "white",
+                            "iconClass": "fa fa-paper-plane",
+                            "iconPosition": "left",
+                            "iconDistance": "8px"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/slider/business/business-01.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "SEO SOLUTIONS TO <br/> INCREASE WEBSITE <br/> VISITORS",
+                    "buttons": [
+                        {
+                            "id": 2,
+                            "content": "Free seo analys",
+                            "path": "/contact"
+                        },
+                        {
+                            "id": 1,
+                            "content": "Join us on telegram",
+                            "path": "/service",
+                            "variant": "texted",
+                            "color": "white",
+                            "iconClass": "fa fa-paper-plane",
+                            "iconPosition": "left",
+                            "iconDistance": "8px"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/slider/business/business-02.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "section": "contactinfo-section",
+            "items": [
+                {
+                    "id": 1,
+                    "iconClass": "fa fa-phone-square",
+                    "title": "contact us <br /> by phone",
+                    "description": "(605) 230-5253"
+                },
+                {
+                    "id": 2,
+                    "iconClass": "fa fa-envelope-open",
+                    "title": "email message",
+                    "description": "sayhello@boseo.com"
+                },
+                {
+                    "id": 3,
+                    "iconClass": "fa fa-clock-o",
+                    "title": "Open Hours",
+                    "description": "Mon-Sat: 8:00am - 5:00pm"
+                }
+            ]
+        },
+        {
+            "section": "feature-section",
+            "section_title": {
+                "title": "Why Choose <span>BOSEO</span>",
+                "subtitle": "Best SEO Company"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "images": [
+                        {
+                            "src": "../images/icons/33.png"
+                        }
+                    ],
+                    "title": "Long Term Results",
+                    "description": "BOSEO service providers make use of effective methodologies, practices and techniques to get positive results for long term"
+                },
+                {
+                    "id": 2,
+                    "images": [
+                        {
+                            "src": "../images/icons/34.png"
+                        }
+                    ],
+                    "title": "Cost Effectiveness",
+                    "description": "We know the value of hard earned money, so we also offer cost-effective SEO services to our clients. We offer our reliable"
+                },
+                {
+                    "id": 3,
+                    "images": [
+                        {
+                            "src": "../images/icons/35.png"
+                        }
+                    ],
+                    "title": "Increased Visibility",
+                    "description": "Enjoy more sales and constant stream of income through enhanced visibility of your website. We are focused on a single target"
+                }
+            ]
+        },
+        {
+            "section": "about-section",
+            "section_title": {
+                "title": "ABOUT <span>US</span>",
+                "subtitle": "Best SEO Company"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Who We Are",
+                    "description": "BOSEO is a Search Engine Marketing Company providing services to Small & Medium size Businesses to grow and get more and more online traffic towards their websites. We bring advanced online marketing from the major cities to businesses right here"
+                },
+                {
+                    "id": 2,
+                    "title": "Our Mission",
+                    "description": "BOSEO is a Search Engine Marketing Company providing services to Small & Medium size Businesses to grow and get more and more online traffic towards their websites. We bring advanced online marketing from the major cities to businesses right here"
+                },
+                {
+                    "id": 3,
+                    "title": "Our Vision",
+                    "description": "BOSEO is a Search Engine Marketing Company providing services to Small & Medium size Businesses to grow and get more and more online traffic towards their websites. We bring advanced online marketing from the major cities to businesses right here"
+                }
+            ],
+            "video_button": {
+                "video_id": "XKJqBM11cMU",
+                "video_platform": "youtube",
+                "content": "See Video"
+            },
+            "images": [{ "src": "../images/about/bg-01.png" }]
+        },
+        {
+            "section": "service-section",
+            "section_title": {
+                "title": "Best Services <span>For You</span>",
+                "subtitle": "What We Do"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Organic Search (SEO)",
+                    "description": "Stop selling. Start helping. Utilize SEO to capture early stage awareness",
+                    "images": [
+                        {
+                            "src": "../images/icons/19.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Link Building Services",
+                    "description": "Our full-service link building company specializes in custom link building campaigns that earn high-quality links",
+                    "images": [
+                        {
+                            "src": "../images/icons/20.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Paid Search (PPC)",
+                    "description": "Search engine marketing (SEM, which can include SEO), pay-per-click (PPC), search engine advertising sponsored",
+                    "images": [
+                        {
+                            "src": "../images/icons/21.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "SEO Auditing Services",
+                    "description": "If you haven't recently audited you website, we recommend an SEO audit before you begin a campaign",
+                    "images": [
+                        {
+                            "src": "../images/icons/22.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "B2B SEO Services",
+                    "description": "B2B SEO campaign will include a study of business goals, followed by an evaluation of pre-purchase",
+                    "images": [
+                        {
+                            "src": "../images/icons/22.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "title": "Full Service SEO",
+                    "description": "Based in Americas, Boseo offers full service SEO marketing solutions for companies of all sizes and types",
+                    "images": [
+                        {
+                            "src": "../images/icons/23.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "section": "funfact-section",
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Completed Projects",
+                    "number": 3245,
+                    "suffix": "+"
+                },
+                {
+                    "id": 2,
+                    "title": "Award Winner",
+                    "number": 59
+                },
+                {
+                    "id": 3,
+                    "title": "Worldwide Users",
+                    "number": 234,
+                    "suffix": "k"
+                },
+                {
+                    "id": 4,
+                    "title": "Satisfied Clients",
+                    "number": 825
+                }
+            ]
+        },
+        {
+            "section": "project-section",
+            "section_title": {
+                "title": "Our Latest <span>Projects</span>",
+                "subtitle": "Case Studies"
+            },
+            "buttons": [
+                {
+                    "id": 1,
+                    "path": "/project",
+                    "content": "See All Projects",
+                    "variant": "underlined",
+                    "color": "dark"
+                }
+            ]
+        },
+        {
+            "section": "testimonial-section",
+            "section_title": {
+                "title": "What Our Clients <span>Say About Us</span>",
+                "subtitle": "Testimonials"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Julia Steve",
+                    "designation": "Manager",
+                    "company": "Spotify LLC",
+                    "description": "We’ve been with higher visibility for about two months now and with the help of our account manager Lauren Moscato, we’ve been able to improve our website and rankings dramatically. We will be continuing business with them and are excited to see what’s to come."
+                },
+                {
+                    "id": 2,
+                    "title": "Julia Smith",
+                    "designation": "Manager",
+                    "company": "Spotify LLC",
+                    "description": "We’ve been with higher visibility for about two months now and with the help of our account manager Lauren Moscato, we’ve been able to improve our website and rankings dramatically. We will be continuing business with them and are excited to see what’s to come."
+                }
+            ]
+        },
+        {
+            "section": "team-section",
+            "section_title": {
+                "title": "Trusted <span> Experts</span>",
+                "subtitle": "30 years of SEO expertise",
+                "description": "From dedicated SEO strategists to creative web designers, we have the people <br/> who can plan and execute the right plan for your company."
+            },
+            "buttons": [
+                {
+                    "id": 1,
+                    "content": "Meet Our Team",
+                    "path": "/team",
+                    "variant": "underlined"
+                }
+            ],
+            "images": [{ "src": "../images/team/bg01.jpg" }]
+        },
+        {
+            "section": "article-section",
+            "section_title": {
+                "subtitle": "Blog",
+                "title": "Latest <span>Posts</span>"
+            }
+        }
+    ]
+}

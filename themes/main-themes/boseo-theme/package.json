@@ -1,0 +1,29 @@
+{
+  "name": "gatsby-theme-boseo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Hasan Moboarak",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint --ignore-path .gitignore . --ext ts --ext tsx --ext js --ext jsx",
+    "lint:fix": "yarn lint --fix",
+    "clean": "rimraf dist *.tsbuildinfo node_modules public dist .cache yarn-error.log"
+  },
+  "dependencies": {
+    "@boseo/helper": "*",
+    "@boseo/shared": "*",
+    "@loadable/component": "^5.15.2",
+    "gatsby-theme-blog": "*",
+    "gatsby-theme-component": "*",
+    "gatsby-theme-container": "*",
+    "gatsby-theme-core": "*",
+    "gatsby-theme-layout": "*",
+    "gatsby-theme-project": "*",
+    "gatsby-theme-ui": "*"
+  },
+  "peerDependencies": {
+    "gatsby": "^4.1.6",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}

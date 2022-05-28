@@ -1,0 +1,25 @@
+{
+  "name": "gatsby-theme-ui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Hasan Moboarak",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint --ignore-path .gitignore . --ext ts --ext tsx --ext js --ext jsx",
+    "lint:fix": "yarn lint --fix",
+    "clean": "rimraf dist *.tsbuildinfo node_modules public dist .cache yarn-error.log"
+  },
+  "dependencies": {
+    "@react-google-maps/api": "^2.7.0",
+    "clsx": "^1.1.1",
+    "react-accessible-accordion": "^4.0.0",
+    "react-countup": "^6.1.1",
+    "react-modal-video": "^1.2.8",
+    "react-portal": "^4.2.1",
+    "react-visibility-sensor": "^5.1.1",
+    "swiper": "^7.2.0"
+  },
+  "peerDependencies": {
+    "@loadable/component": "^5.15.2"
+  }
+}

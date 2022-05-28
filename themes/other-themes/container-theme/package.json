@@ -1,0 +1,19 @@
+{
+  "name": "gatsby-theme-container",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Hasan Moboarak",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint --ignore-path .gitignore . --ext ts --ext tsx --ext js --ext jsx",
+    "lint:fix": "yarn lint --fix",
+    "clean": "rimraf dist *.tsbuildinfo node_modules public dist .cache yarn-error.log"
+  },
+  "dependencies": {
+    "react-masonry-css": "^1.0.16",
+    "react-tabs": "^3.2.3"
+  },
+  "peerDependencies": {
+    "@loadable/component": "^5.15.2"
+  }
+}
